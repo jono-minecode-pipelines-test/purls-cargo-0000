@@ -1,0 +1,13 @@
+- pkg:cargo/zksync_settlement_layer_data@29.1.2-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.11.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.11.1-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.12.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.13.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.2.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.3.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.4.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.4.1-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.5.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.6.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.7.0-non-semver-compat
+- pkg:cargo/zksync_settlement_layer_data@29.7.1-non-semver-compat
