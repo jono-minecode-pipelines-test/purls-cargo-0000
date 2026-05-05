@@ -1,0 +1,4 @@
+- pkg:cargo/zmk-studio-api@0.1.1
+- pkg:cargo/zmk-studio-api@0.2.0
+- pkg:cargo/zmk-studio-api@0.3.0
+- pkg:cargo/zmk-studio-api@0.3.1
